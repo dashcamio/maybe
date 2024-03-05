@@ -1,3 +1,4 @@
+cd cd /Users/ec2-user/actions-runner/_work/testdriver/testdriver
 brew install rbenv ruby-build
 rbenv init
 rbenv install 3.3.0
